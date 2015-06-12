@@ -8,3 +8,4 @@ Roll your own Node CI server with Jenkins!  See the accompanying [blog](http://s
 
 History
 2015/06/12 Finished setting up.
+2015/06/12 Check firewall.
